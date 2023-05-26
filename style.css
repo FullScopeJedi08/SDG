@@ -1,0 +1,38 @@
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #000;
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+input[type=submit] {
+    background-color: #1589FF;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+  
+input[type=submit]:hover {
+    background-color: blue;
+}
+  
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+body{
+background-color: #1589FF;
+}
+h1{
+    font-family: "Sacramento", sans-serif;
+    font-size: 6rem;
+    font-weight: 900;
+    line-height: 1.5;
+    text-align: center;
+}
